@@ -1,0 +1,29 @@
+﻿  BsgToOBJ.cpp
+D:\test\BsgToOBJ\BsgToOBJ.h(49,51): warning C4316: 'Common::blockNode': object allocated on the heap may not be aligned 16
+D:\test\BsgToOBJ\BsgToOBJ.h(51,51): warning C4316: 'Common::pointNode': object allocated on the heap may not be aligned 16
+D:\test\BsgToOBJ\BsgToOBJ.h(53,48): warning C4316: 'Common::edgeNode': object allocated on the heap may not be aligned 16
+D:\test\BsgToOBJ\BsgToOBJ.h(55,48): warning C4316: 'Common::surfNode': object allocated on the heap may not be aligned 16
+D:\test\BsgToOBJ\BsgToOBJ.cpp(13,46): warning C4316: '__m128': object allocated on the heap may not be aligned 16
+D:\test\BsgToOBJ\BsgToOBJ.cpp(14,46): warning C4316: '__m128': object allocated on the heap may not be aligned 16
+D:\test\BsgToOBJ\BsgToOBJ.cpp(15,43): warning C4316: '__m128': object allocated on the heap may not be aligned 16
+D:\test\BsgToOBJ\BsgToOBJ.cpp(293,41): warning C4316: 'Common::pointNode': object allocated on the heap may not be aligned 16
+D:\test\BsgToOBJ\BsgToOBJ.cpp(321,39): warning C4316: 'Common::edgeNode': object allocated on the heap may not be aligned 16
+D:\test\BsgToOBJ\BsgToOBJ.cpp(363,83): warning C4129: 'R': unrecognized character escape sequence
+D:\test\BsgToOBJ\BsgToOBJ.cpp(364,83): warning C4129: 'G': unrecognized character escape sequence
+D:\test\BsgToOBJ\BsgToOBJ.cpp(365,83): warning C4129: 'B': unrecognized character escape sequence
+D:\test\BsgToOBJ\BsgToOBJ.cpp(409,39): warning C4316: 'Common::surfNode': object allocated on the heap may not be aligned 16
+D:\test\BsgToOBJ\BsgToOBJ.cpp(548,41): warning C4316: 'Common::blockNode': object allocated on the heap may not be aligned 16
+D:\test\BsgToOBJ\BsgToOBJ.cpp(562,41): warning C4316: 'Common::blockNode': object allocated on the heap may not be aligned 16
+D:\test\BsgToOBJ\BsgToOBJ.cpp(589,39): warning C4316: 'Common::blockNode': object allocated on the heap may not be aligned 16
+D:\test\BsgToOBJ\BsgToOBJ.cpp(809,13): warning C4566: character represented by universal-character-name '\u8D34' cannot be represented in the current code page (1252)
+D:\test\BsgToOBJ\BsgToOBJ.cpp(809,13): warning C4566: character represented by universal-character-name '\u56FE' cannot be represented in the current code page (1252)
+D:\test\BsgToOBJ\BsgToOBJ.cpp(809,13): warning C4566: character represented by universal-character-name '\u4E0D' cannot be represented in the current code page (1252)
+D:\test\BsgToOBJ\BsgToOBJ.cpp(809,13): warning C4566: character represented by universal-character-name '\u5B58' cannot be represented in the current code page (1252)
+D:\test\BsgToOBJ\BsgToOBJ.cpp(809,13): warning C4566: character represented by universal-character-name '\u5728' cannot be represented in the current code page (1252)
+D:\test\BsgToOBJ\BsgToOBJ.cpp(809,13): warning C4566: character represented by universal-character-name '\uFF0C' cannot be represented in the current code page (1252)
+D:\test\BsgToOBJ\BsgToOBJ.cpp(809,13): warning C4566: character represented by universal-character-name '\u4F7F' cannot be represented in the current code page (1252)
+D:\test\BsgToOBJ\BsgToOBJ.cpp(809,13): warning C4566: character represented by universal-character-name '\u7528' cannot be represented in the current code page (1252)
+D:\test\BsgToOBJ\BsgToOBJ.cpp(809,13): warning C4566: character represented by universal-character-name '\u539F' cannot be represented in the current code page (1252)
+D:\test\BsgToOBJ\BsgToOBJ.cpp(809,13): warning C4566: character represented by universal-character-name '\u59CB' cannot be represented in the current code page (1252)
+D:\test\BsgToOBJ\BsgToOBJ.cpp(851,53): warning C4316: '__m128': object allocated on the heap may not be aligned 16
+  BsgToOBJ_Translated.vcxproj -> D:\test\translated\BsgToOBJ_Translated\Debug\BsgToOBJ_Translated.exe
